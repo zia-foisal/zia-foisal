@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zia-foisal
-- 👀 I’m interested in spatial data science and its applications to improve the disaster resilience work by making risk data easier and more effective to work with.
+- 👀 I’m interested in spatial data science and its applications to improve the disaster and climate resilience work by improving access to risk information
 - 🌱 I’m currently learning R, SQL and Python
 
 <!---
