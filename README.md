@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @zia-foisal
-- 👀 I’m interested in spatial data science and its applications to improve disaster and climate resilience work by improving access to risk information.
-- 🌱 I’m currently learning SQL, R, and Python to enhance my skills in data analysis and visualization.
-- 🌱 I am learning and exploring the machine learning techniques for Social Vulnerability Index and other classification and regression tasks.
-- 💞️ I’m looking to collaborate with other professionals and organizations working in the field of disaster and climate resilience to share knowledge and ideas.
+- 👋 Hi, I'm Zia, a development GIS/data professional, have expertise in humanitarian principles, research design, information management, program design and implementation, and report writing. My skills include collecting, managing, processing, analyzing, and visualizing both tabular and geospatial data. I have applied these skills in areas such as disaster and climate risk analysis, socioeconomic disaggregated data analysis, multisectoral needs assessment, landscape restoration and biodiversity conservation using nature-based solution techniques.
+- 🌱 I have developed skills in Python, R, and SQL, geospatial data creation, management and analysis using tools such as QGIS, ArcPro, and PostGIS. I am also proficient in remote sensing using Google Earth Engine JavaScript and the rgee API. Additionally, I have experience with WebGIS using the R shiny framework, GeoServer, leaflet, open layers, and ArcGIS online. 
 - 📫 You can reach me at ziafoisal@gmail.com
 
 <!---
