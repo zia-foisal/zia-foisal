@@ -22,8 +22,6 @@
 <img src="https://earthengine.google.com/static/images/earth-engine-logo.png" width="50" title="Google Earth Engine" />&nbsp;
 <img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png" width="50" title="ArcGIS Pro" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" width="50" title="QGIS" />&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="50" title="PowerBi" />&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="50" title="Excel" />&nbsp;
 
 </h3>
 
